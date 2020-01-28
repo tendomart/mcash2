@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7503288fa500d4146a946261a2d14a42f7a12ccc
 # Compiled class file
 *.class
 
@@ -22,6 +25,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 =======
 HELP.md
 target/
@@ -55,3 +59,5 @@ build/
 ### VS Code ###
 .vscode/
 >>>>>>> Created New MCash User Management Project
+=======
+>>>>>>> 7503288fa500d4146a946261a2d14a42f7a12ccc
